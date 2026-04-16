@@ -1,0 +1,6 @@
+{
+  "Name": "Olympic_Medal_Tracker",
+  "ProjectType": "Process",
+  "Description": "Technical test for Deloitte",
+  "MainFile": "Main.xaml"
+}
